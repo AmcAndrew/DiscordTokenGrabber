@@ -1,4 +1,4 @@
-#This only works with python 3.9.5!
+# This only works with python 3.9.5!
 
 Your webhook goes at the top of the logger file.
 
